@@ -22,13 +22,13 @@ content = search_words(content)
 dico = Combinaisons.new
 content.each do |i|
 	i.length.times do |y|
-		if y == 0
+		if y == (i.length - 1)
 			dico.add(i[y], "STOP")
 		else
-			dico.add(i[y], i[y-1])
+			dico.add(i[y], i[y+1])
 		end
-		dico.add("START", i[-1])
 	end
+	dico.add("START", i[0])
 end
 #dico.hash.each_pair{|key, value| puts "#{key} ==> #{value}"}
 f = File.open("Dico.txt", "w")

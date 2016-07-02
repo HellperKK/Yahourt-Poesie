@@ -27,8 +27,8 @@ content.each do |i|
 		else
 			dico.add(i[y], i[y-1])
 		end
-		dico.add("START", i[-1])
 	end
+	dico.add("START", i[-1])
 end
 #dico.hash.each_pair{|key, value| puts "#{key} ==> #{value}"}
 f = File.open("Dico.txt", "w")

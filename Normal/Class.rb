@@ -35,11 +35,11 @@ class Combinaisons
 		if (mot == "STOP") || (acc.length == limit)
 			acc
 		else
-			make_word(mot, limit, mot + acc)
+			make_word(mot, limit, acc + mot)
 		end
 	end
 	def make_sentence(limit = rand(15..35), acc = "")
-		phrase = make_word + " " + acc
+		phrase = acc + " " + make_word
 		if phrase.length >= limit
 			phrase
 		else
@@ -53,5 +53,27 @@ class Combinaisons
 	def make_pairs
 		phrase = make_sentence
 		phrase + "\n" + make_sentence_rhymes(phrase)
+	end
+	def make_sonnet
+		rimes = (0..4).map{make_sentence}
+		sonnet = [
+			make_sentence_rhymes(rimes[0]),
+			make_sentence_rhymes(rimes[1]),
+			make_sentence_rhymes(rimes[1]),
+			make_sentence_rhymes(rimes[0]),
+			"",
+			make_sentence_rhymes(rimes[0]),
+			make_sentence_rhymes(rimes[1]),
+			make_sentence_rhymes(rimes[1]),
+			make_sentence_rhymes(rimes[0]),
+			"",
+			make_sentence_rhymes(rimes[2]),
+			make_sentence_rhymes(rimes[2]),
+			make_sentence_rhymes(rimes[3]),
+			"",
+			make_sentence_rhymes(rimes[4]),
+			make_sentence_rhymes(rimes[4]),
+			make_sentence_rhymes(rimes[3])
+		]
 	end
 end
