@@ -1,4 +1,4 @@
-class Combinaisons
+class MegaCombinaisons
 	attr_reader :hash
 	def initialize
 		@hash = Hash.new{[]}
@@ -16,9 +16,6 @@ class Combinaisons
 	def to_s
 		@hash.to_s
 	end
-	def random_char
-		("a".."z").to_a[rand(0..25)]
-	end
 	def pick_random(paires, random, acc = 0, index = 0)
 		acc += paires[index][1]
 		if random <= acc
@@ -29,27 +26,9 @@ class Combinaisons
 	end
 	def find_next(char)
 		paires = @hash[char]
-		#puts "char ==> #{char}, paires ==> #{paires}"
 		max = paires.map{|i| i[1]}.reduce(:+)
 		random = rand(0..(max-1))
 		pick_random(paires, random, acc = 0, index = 0)
-	end
-	def make_word(char = ["START", random_char], limit = rand(3..7), acc = "")
-		mot = find_next(char)
-		#puts "mot ==> #{mot}"
-		if (mot == "STOP") || (acc.length == limit)
-			acc + char[1]
-		else
-			make_word([char[1], mot], limit, acc + char[1])
-		end
-	end
-	def make_sentence(limit = rand(15..35), acc = "")
-		phrase = acc + " " + make_word
-		if phrase.length >= limit
-			phrase
-		else
-			make_sentence(limit, phrase)
-		end
 	end
 	def make_sentence_rhymes(sentence)
 		fin = sentence.split(" ")[-1]

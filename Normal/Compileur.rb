@@ -1,16 +1,6 @@
 # encoding: UTF-8
 require "Yaml"
 require_relative "Class"
-def search_words(str) 
-	str.split("\n")
-	#str.split("\n").map{|i| }.uniq
-end
-def to_hash_table(liste)
-	hash = Hash.new([])
-	listebis = double_list(liste)
-	listebis.each{|i| hash[i[0]] += [i[1]]}
-	hash
-end
 begin
 	content = File.open('Mots.txt',"r"){|i| i.read}
 rescue
@@ -18,7 +8,7 @@ rescue
 	abort
 end
 t1 = Time.now
-content = search_words(content)
+content = content.split("\n")
 dico = Combinaisons.new
 content.each do |i|
 	i.length.times do |y|
