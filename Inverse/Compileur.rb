@@ -2,7 +2,7 @@
 require "Yaml"
 require_relative "Class"
 begin
-	content = File.open('Mots.txt',"r"){|i| i.read}
+	content = File.open('../Mots.txt',"r"){|i| i.read}
 rescue
 	puts "no file Mots.txt found"
 	abort

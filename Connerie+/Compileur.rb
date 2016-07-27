@@ -20,7 +20,7 @@ def zip_rhymes(array)
 	end
 end
 begin
-	content = File.open('Mots.txt',"r"){|i| i.read}
+	content = File.open('../Mots.txt',"r"){|i| i.read}
 rescue
 	puts "no file Mots.txt found"
 	abort
