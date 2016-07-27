@@ -40,7 +40,7 @@ class MegaCombinaisons
 	end
 	def make_sonnet
 		rimes = (0..4).map{make_sentence}
-		sonnet = [
+		[
 			make_sentence_rhymes(rimes[0]),
 			make_sentence_rhymes(rimes[1]),
 			make_sentence_rhymes(rimes[1]),
@@ -58,6 +58,6 @@ class MegaCombinaisons
 			make_sentence_rhymes(rimes[4]),
 			make_sentence_rhymes(rimes[4]),
 			make_sentence_rhymes(rimes[3])
-		]
+		].join("\n")
 	end
 end

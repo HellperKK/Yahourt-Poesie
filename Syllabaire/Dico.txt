@@ -912,7 +912,7 @@ hash:
   - - nta
     - 11
   - - nte
-    - 69
+    - 71
   - - nthe
     - 5
   - - ntho
@@ -1444,7 +1444,7 @@ hash:
   - - vai
     - 7
   - - ve
-    - 154
+    - 155
   - - veu
     - 83
   - - viai
@@ -1525,23 +1525,19 @@ hash:
     - 2
   START:
   - - a
-    - 22709
+    - 22712
   - - ae
     - 102
   - - ai
     - 501
   - - aie
     - 3
-  - - Ante
-    - 2
   - - ao
     - 8
   - - aou
     - 48
   - - au
     - 1004
-  - - Ave
-    - 1
   - - ba
     - 3600
   - - bai
@@ -2215,15 +2211,11 @@ hash:
   - - eau
     - 6
   - - e
-    - 34596
+    - 34602
   - - ei
     - 4
   - - eo
     - 18
-  - - Esca
-    - 2
-  - - Esqui
-    - 4
   - - eu
     - 241
   - - eue
@@ -2361,13 +2353,11 @@ hash:
   - - fouie
     - 2
   - - fra
-    - 628
+    - 629
   - - frai
     - 97
   - - fraie
     - 14
-  - - Fra
-    - 1
   - - frau
     - 47
   - - fre
@@ -2587,9 +2577,7 @@ hash:
   - - gui
     - 405
   - - gu
-    - 28
-  - - GUTe
-    - 1
+    - 29
   - - gym
     - 1
   - - gymkha
@@ -2710,7 +2698,7 @@ hash:
     - 2
   - - hye
     - 2
-  - - Hygia
+  - - hygia
     - 2
   - - hygie
     - 7
@@ -2741,15 +2729,11 @@ hash:
   - - ia
     - 4
   - - i
-    - 11507
-  - - Inte
-    - 1
+    - 11509
   - - io
     - 155
   - - iou
     - 41
-  - - ISPELL
-    - 1
   - - iu
     - 2
   - - ja
@@ -2893,14 +2877,12 @@ hash:
   - - kysti
     - 2
   - - la
-    - 1843
+    - 1844
   - - lai
     - 176
   - - laie
     - 14
-  - - La
-    - 1
-  - - Lõnde
+  - - lõnde
     - 1
   - - lao
     - 4
@@ -3057,9 +3039,7 @@ hash:
   - - lyti
     - 2
   - - ma
-    - 5804
-  - - Ma
-    - 2
+    - 5806
   - - mae
     - 6
   - - mai
@@ -3073,7 +3053,7 @@ hash:
   - - mau
     - 106
   - - me
-    - 2965
+    - 2966
   - - mea
     - 7
   - - mee
@@ -3082,14 +3062,12 @@ hash:
     - 6
   - - meio
     - 4
-  - - Me
-    - 1
   - - meu
     - 191
   - - mg
     - 1
   - - mi
-    - 1806
+    - 1810
   - - mia
     - 6
   - - miaou
@@ -3100,22 +3078,18 @@ hash:
     - 23
   - - mieu
     - 2
-  - - Mi
-    - 4
   - - mio
     - 5
   - - mne
     - 6
   - - mo
-    - 2485
+    - 2489
   - - moe
     - 10
   - - moeu
     - 1
   - - moi
     - 263
-  - - Mo
-    - 4
   - - mou
     - 725
   - - moue
@@ -3195,14 +3169,12 @@ hash:
   - - myxo
     - 2
   - - na
-    - 807
+    - 808
   - - nae
     - 1
   - - nai
     - 36
   - - nao
-    - 1
-  - - Na
     - 1
   - - nau
     - 69
@@ -3239,11 +3211,9 @@ hash:
   - - nio
     - 5
   - - 'no'
-    - 872
-  - - Noe
-    - 2
+    - 873
   - - noe
-    - 2
+    - 4
   - - noeu
     - 2
   - - noie
@@ -3252,8 +3222,6 @@ hash:
     - 62
   - - noo
     - 2
-  - - 'No'
-    - 1
   - - noua
     - 11
   - - nouai
@@ -3323,7 +3291,7 @@ hash:
   - - oa
     - 6
   - - o
-    - 4430
+    - 4431
   - - oe
     - 68
   - - oei
@@ -3336,8 +3304,6 @@ hash:
     - 87
   - - oo
     - 14
-  - - Orlo
-    - 1
   - - ou
     - 519
   - - oua
@@ -3367,9 +3333,7 @@ hash:
   - - peau
     - 85
   - - pe
-    - 3905
-  - - Pe
-    - 2
+    - 3907
   - - pee
     - 2
   - - pei
@@ -3511,13 +3475,11 @@ hash:
   - - pneu
     - 31
   - - po
-    - 2561
+    - 2563
   - - poe
     - 98
   - - poi
     - 498
-  - - Po
-    - 2
   - - poo
     - 2
   - - pou
@@ -3677,10 +3639,8 @@ hash:
   - - pyxi
     - 2
   - - qua
-    - 523
+    - 525
   - - quai
-    - 2
-  - - Qua
     - 2
   - - que
     - 225
@@ -3739,9 +3699,7 @@ hash:
   - - rhi
     - 46
   - - rho
-    - 36
-  - - Rho
-    - 2
+    - 38
   - - rhu
     - 67
   - - rhynchi
@@ -3753,7 +3711,7 @@ hash:
   - - rhyti
     - 2
   - - ri
-    - 1235
+    - 1240
   - - ria
     - 8
   - - riaie
@@ -3768,20 +3726,16 @@ hash:
     - 1
   - - riio
     - 1
-  - - Ri
-    - 5
   - - rio
     - 1
   - - roa
     - 4
   - - ro
-    - 1373
+    - 1375
   - - roe
     - 2
   - - roi
     - 40
-  - - Ro
-    - 2
   - - roo
     - 2
   - - roua
@@ -3843,13 +3797,9 @@ hash:
   - - rythmo
     - 1
   - - sa
-    - 2659
+    - 2661
   - - sai
-    - 217
-  - - Sai
-    - 2
-  - - Sa
-    - 2
+    - 219
   - - saou
     - 47
   - - sau
@@ -3917,17 +3867,13 @@ hash:
   - - scle
     - 51
   - - sco
-    - 172
+    - 174
   - - scoo
     - 6
-  - - Sco
-    - 2
   - - scou
     - 8
-  - - Scra
-    - 2
   - - scra
-    - 45
+    - 47
   - - scri
     - 63
   - - scro
@@ -3990,10 +3936,8 @@ hash:
     - 1
   - - siu
     - 2
-  - - Ska
-    - 2
   - - ska
-    - 6
+    - 8
   - - ske
     - 3
   - - ski
@@ -4307,7 +4251,7 @@ hash:
   - - systyle
     - 2
   - - ta
-    - 2432
+    - 2435
   - - tae
     - 2
   - - taie
@@ -4318,8 +4262,6 @@ hash:
     - 6
   - - taoi
     - 4
-  - - Ta
-    - 3
   - - tau
     - 56
   - - tcha
@@ -4331,9 +4273,7 @@ hash:
   - - tchi
     - 3
   - - te
-    - 2233
-  - - Te
-    - 5
+    - 2238
   - - tee
     - 6
   - - tei
@@ -4421,7 +4361,7 @@ hash:
   - - touaie
     - 1
   - - tou
-    - 816
+    - 817
   - - toue
     - 19
   - - touee
@@ -4435,8 +4375,6 @@ hash:
   - - touio
     - 1
   - - touo
-    - 1
-  - - Tou
     - 1
   - - tra
     - 2413
@@ -4453,7 +4391,7 @@ hash:
   - - treui
     - 43
   - - tri
-    - 1071
+    - 1072
   - - tria
     - 74
   - - triai
@@ -4472,8 +4410,6 @@ hash:
     - 1
   - - trio
     - 62
-  - - Tri
-    - 1
   - - triu
     - 8
   - - tro
@@ -4617,9 +4553,7 @@ hash:
   - - veau
     - 2
   - - ve
-    - 1892
-  - - Ve
-    - 4
+    - 1896
   - - vei
     - 95
   - - veu
@@ -4641,15 +4575,13 @@ hash:
   - - vla
     - 1
   - - vo
-    - 744
+    - 746
   - - voeu
     - 2
   - - voi
     - 147
   - - voie
     - 3
-  - - Vo
-    - 2
   - - voua
     - 11
   - - vouai
@@ -4687,9 +4619,7 @@ hash:
   - - vue
     - 2
   - - wa
-    - 127
-  - - Wa
-    - 2
+    - 129
   - - we
     - 14
   - - wee
@@ -5174,7 +5104,7 @@ hash:
   - - STOP
     - 923
   - - s
-    - 922
+    - 923
   - - ga
     - 2
   - - tte
@@ -5281,15 +5211,13 @@ hash:
     - 1
   - - scre
     - 1
-  - - S
-    - 1
   - - tie
     - 4
   - - fe
     - 1
   s:
   - - STOP
-    - 89951
+    - 89955
   ssai:
   - - STOP
     - 199
@@ -5861,6 +5789,8 @@ hash:
     - 39
   - - lae
     - 2
+  - - lba
+    - 1
   - - lchio
     - 2
   - - lchi
@@ -6081,9 +6011,9 @@ hash:
     - 1
   nte:
   - - STOP
-    - 1682
-  - - s
     - 1684
+  - - s
+    - 1686
   - - r
     - 152
   - - re
@@ -6116,6 +6046,8 @@ hash:
     - 12
   - - ce
     - 6
+  - - chri
+    - 2
   - - di
     - 8
   - - fi
@@ -6431,7 +6363,7 @@ hash:
   - - rnaie
     - 2
   - - rne
-    - 41
+    - 42
   - - rnee
     - 4
   - - rnie
@@ -7334,7 +7266,7 @@ hash:
   - - ti
     - 18
   - - chni
-    - 109
+    - 110
   - - ntie
     - 16
   - - ndoi
@@ -7371,6 +7303,8 @@ hash:
     - 5
   - - xie
     - 2
+  - - nbe
+    - 2
   - - sau
     - 1
   - - n
@@ -7385,9 +7319,9 @@ hash:
     - 1
   - - sco
     - 1
-  - - lDieu
+  - - ldieu
     - 1
-  - - lsDieu
+  - - lsdieu
     - 1
   - - si
     - 4
@@ -7579,6 +7513,8 @@ hash:
     - 2
   - - cks
     - 1
+  - - flo
+    - 2
   - - gu
     - 4
   - - k
@@ -7633,6 +7569,8 @@ hash:
     - 2
   - - rbiu
     - 2
+  - - rga
+    - 4
   - - rgi
     - 38
   - - rmai
@@ -7712,8 +7650,6 @@ hash:
   - - rba
     - 2
   - - rclo
-    - 2
-  - - rga
     - 2
   - - rpo
     - 2
@@ -8006,7 +7942,7 @@ hash:
   - - lgie
     - 2
   - - nd
-    - 2
+    - 3
   - - nds
     - 2
   - - ze
@@ -12003,7 +11939,7 @@ hash:
   - - ndspoi
     - 1
   - - neo
-    - 39
+    - 41
   - - nfla
     - 50
   - - nflai
@@ -13958,7 +13894,7 @@ hash:
   - - STOP
     - 1873
   - - s
-    - 1849
+    - 1850
   - - nt
     - 149
   - - r
@@ -14202,8 +14138,6 @@ hash:
   - - strio
     - 1
   - - stro
-    - 1
-  - - S
     - 1
   - - na
     - 2
@@ -14848,7 +14782,7 @@ hash:
   - - xie
     - 8
   - - xi
-    - 20
+    - 22
   - - rcie
     - 2
   - - rci
@@ -15582,7 +15516,7 @@ hash:
   - - rta
     - 8
   - - rte
-    - 4
+    - 5
   - - rti
     - 71
   - - rtri
@@ -16224,7 +16158,7 @@ hash:
   - - ntaie
     - 1
   - - nte
-    - 20
+    - 22
   - - ntie
     - 1
   - - nti
@@ -16318,10 +16252,6 @@ hash:
   - - ssu
     - 1
   - - su
-    - 1
-  - - ntE
-    - 1
-  - - ntES
     - 1
   - - se
     - 1
@@ -19437,7 +19367,7 @@ hash:
   - - sa
     - 2
   - - si
-    - 5
+    - 7
   - - ssia
     - 2
   - - ssi
@@ -19649,7 +19579,7 @@ hash:
   - - te
     - 161
   - - ni
-    - 158
+    - 162
   - - li
     - 244
   - - ssi
@@ -20618,7 +20548,7 @@ hash:
   - - phto
     - 2
   - - po
-    - 10
+    - 11
   - - ppa
     - 13
   - - ppai
@@ -25106,6 +25036,8 @@ hash:
     - 2
   - - cfa
     - 2
+  - - ch
+    - 1
   - - cha
     - 22
   - - chai
@@ -25601,7 +25533,7 @@ hash:
   - - rtie
     - 4
   - - rti
-    - 6
+    - 7
   - - rtre
     - 2
   - - rtyr
@@ -26195,7 +26127,7 @@ hash:
   - - lie
     - 6
   - - 'no'
-    - 243
+    - 245
   - - nstra
     - 11
   - - nta
@@ -26626,6 +26558,8 @@ hash:
     - 1
   - - tva
     - 1
+  - - vio
+    - 2
   - - xa
     - 2
   - - ye
@@ -27200,7 +27134,7 @@ hash:
     - 459
   ve:
   - - STOP
-    - 685
+    - 686
   - - s
     - 674
   - - nt
@@ -27681,6 +27615,8 @@ hash:
     - 4
   - - cue
     - 2
+  - - da
+    - 2
   - - de
     - 4
   - - he
@@ -27806,7 +27742,7 @@ hash:
   - - si
     - 19
   - - spa
-    - 2
+    - 4
   - - spe
     - 6
   - - ssa
@@ -30519,7 +30455,7 @@ hash:
   - - nce
     - 28
   - - nte
-    - 39
+    - 41
   - - nts
     - 13
   - - mie
@@ -31009,10 +30945,6 @@ hash:
   - - sde
     - 1
   - - sma
-    - 1
-  - - ntE
-    - 1
-  - - ntES
     - 1
   - - zy
     - 1
@@ -31599,7 +31531,7 @@ hash:
   - - tra
     - 2
   - - tre
-    - 7
+    - 8
   - - va
     - 40
   - - xyle
@@ -33534,8 +33466,12 @@ hash:
     - 2
   - - ki
     - 1
+  - - lsa
+    - 1
   - - meu
     - 4
+  - - mme
+    - 2
   - - nþa
     - 13
   - - nþai
@@ -33573,7 +33509,7 @@ hash:
   - - pio
     - 1
   - - po
-    - 76
+    - 78
   - - ppe
     - 2
   - - puai
@@ -38262,7 +38198,7 @@ hash:
   - - STOP
     - 141
   - - me
-    - 157
+    - 158
   - - nt
     - 125
   - - s
@@ -38963,7 +38899,7 @@ hash:
   - - ndio
     - 1
   - - ndo
-    - 1
+    - 3
   - - tre
     - 4
   - - rda
@@ -39075,7 +39011,7 @@ hash:
   - - lio
     - 2
   - - lo
-    - 68
+    - 70
   - - lua
     - 22
   - - luai
@@ -39593,11 +39529,15 @@ hash:
     - 1
   - - ntne
     - 1
+  - - nto
+    - 1
   - - ntpau
     - 1
   - - ntpe
     - 1
   - - ntpie
+    - 1
+  - - ntsie
     - 1
   - - ntsi
     - 5
@@ -42392,7 +42332,7 @@ hash:
   - - to
     - 5
   - - lu
-    - 99
+    - 101
   - - ra
     - 33
   - - ri
@@ -45422,6 +45362,8 @@ hash:
     - 3
   - - riu
     - 2
+  - - ffi
+    - 1
   - - "´sme"
     - 2
   - - sa
@@ -46219,7 +46161,7 @@ hash:
   - - rvi
     - 2
   - - sa
-    - 1686
+    - 1687
   - - sai
     - 39
   - - sce
@@ -46436,7 +46378,7 @@ hash:
     - 47
   - - lphe
     - 2
-  - - LMS
+  - - lms
     - 1
   - - stre
     - 3
@@ -46460,15 +46402,13 @@ hash:
     - 2
   - - spre
     - 1
-  - - Sa
-    - 1
   - - ru
     - 6
   - - st
     - 1
   - - clou
     - 1
-  - - Mau
+  - - mau
     - 1
   - - sca
     - 2
@@ -50009,7 +49949,7 @@ hash:
     - 6
   - - sa
     - 2
-  - - Da
+  - - da
     - 1
   - - cui
     - 6
@@ -53396,7 +53336,7 @@ hash:
   - - plaie
     - 1
   - - ple
-    - 23
+    - 24
   - - plee
     - 2
   - - pli
@@ -65449,7 +65389,7 @@ hash:
   - - lai
     - 9
   - - la
-    - 121
+    - 123
   - - t
     - 10
   - - n
@@ -67922,7 +67862,7 @@ hash:
     - 2
   dieu:
   - - STOP
-    - 5
+    - 6
   - - x
     - 10
   - - se
@@ -68385,7 +68325,7 @@ hash:
   - - rca
     - 9
   - - da
-    - 65
+    - 67
   - - rtui
     - 7
   - - rdri
@@ -72892,7 +72832,7 @@ hash:
   - - te
     - 8
   - - ce
-    - 4
+    - 5
   - - cie
     - 34
   - - ci
@@ -80470,6 +80410,8 @@ hash:
     - 2
   - - rso
     - 2
+  - - tch
+    - 1
   - - tcha
     - 11
   - - tchai
@@ -80485,6 +80427,8 @@ hash:
   - - tchio
     - 1
   - - tcho
+    - 1
+  - - tchs
     - 1
   - - tie
     - 3
@@ -80807,6 +80751,8 @@ hash:
   - - ru
     - 2
   - - ss
+    - 1
+  - - te
     - 1
   - - tta
     - 2
@@ -84337,7 +84283,7 @@ hash:
   - - ssa
     - 11
   - - ssai
-    - 39
+    - 40
   - - ssaie
     - 1
   - - sse
@@ -85708,7 +85654,7 @@ hash:
   - - ra
     - 2
   - - re
-    - 6
+    - 8
   - - se
     - 2
   - - so
@@ -87107,7 +87053,7 @@ hash:
   - - quo
     - 1
   - - n
-    - 2
+    - 3
   - - t
     - 1
   - - ts
@@ -90744,6 +90690,8 @@ hash:
     - 18
   - - ctueu
     - 8
+  - - ll
+    - 1
   - - nseu
     - 4
   - - nda
@@ -92268,9 +92216,6 @@ hash:
   rcti:
   - - que
     - 8
-  Ante:
-  - - chri
-    - 2
   chri:
   - - st
     - 2
@@ -96837,7 +96782,7 @@ hash:
     - 8
   - - te
     - 10
-  - - Dieu
+  - - dieu
     - 1
   priee:
   - - STOP
@@ -97115,7 +97060,7 @@ hash:
     - 6
   - - 'no'
     - 4
-  - - Mau
+  - - mau
     - 1
   - - smo
     - 1
@@ -99669,7 +99614,7 @@ hash:
   - - rpe
     - 6
   - - la
-    - 41
+    - 43
   - - lie
     - 4
   - - l
@@ -101460,7 +101405,7 @@ hash:
     - 3
   ll:
   - - STOP
-    - 24
+    - 25
   lls:
   - - STOP
     - 23
@@ -104118,9 +104063,6 @@ hash:
   ntvei:
   - - lle
     - 2
-  Ave:
-  - - STOP
-    - 1
   glai:
   - - STOP
     - 8
@@ -105810,6 +105752,8 @@ hash:
     - 1
   - - nþai
     - 3
+  - - ncai
+    - 1
   - - nca
     - 1
   - - ncbo
@@ -106415,7 +106359,7 @@ hash:
     - 2
   - - sso
     - 2
-  - - sGUTe
+  - - sgu
     - 1
   - - lle
     - 2
@@ -107200,7 +107144,7 @@ hash:
   - - lle
     - 23
   - - mau
-    - 6
+    - 10
   - - nta
     - 14
   - - ntai
@@ -112999,6 +112943,10 @@ hash:
     - 1
   - - rie
     - 4
+  - - "´"
+    - 1
+  - - "´s"
+    - 1
   - - te
     - 4
   - - ti
@@ -115060,6 +115008,10 @@ hash:
     - 1
   - - cie
     - 2
+  - - l
+    - 1
+  - - ls
+    - 1
   - - ti
     - 2
   noei:
@@ -118050,6 +118002,8 @@ hash:
   scra:
   - - ft
     - 1
+  - - bble
+    - 2
   - - ma
     - 2
   - - pe
@@ -119587,6 +119541,8 @@ hash:
     - 1
   - - da
     - 6
+  - - dia
+    - 1
   - - die
     - 2
   - - diee
@@ -119601,6 +119557,8 @@ hash:
     - 6
   - - ta
     - 2
+  - - vyl
+    - 1
   - - mme
     - 2
   cloa:
@@ -128619,7 +128577,7 @@ hash:
     - 1
   - - soie
     - 1
-  - - Sa
+  - - sa
     - 1
   - - mo
     - 1
@@ -129814,7 +129772,7 @@ hash:
   - - sbrou
     - 43
   - - sca
-    - 209
+    - 211
   - - scha
     - 13
   - - schai
@@ -129878,7 +129836,7 @@ hash:
   - - squa
     - 2
   - - squi
-    - 132
+    - 136
   - - ssai
     - 42
   - - ssaie
@@ -132886,9 +132844,6 @@ hash:
     - 1
   - - fo
     - 1
-  Esca:
-  - - la
-    - 2
   rmou:
   - - cha
     - 11
@@ -133051,9 +133006,6 @@ hash:
     - 2
   - - fe
     - 6
-  Esqui:
-  - - mau
-    - 4
   yi:
   - - ste
     - 2
@@ -134642,7 +134594,7 @@ hash:
     - 4
   lms:
   - - STOP
-    - 4
+    - 5
   ltra:
   - - STOP
     - 4
@@ -135255,11 +135207,10 @@ hash:
     - 1
   - - le
     - 2
-  Fra:
-  - - ncai
+  sgu:
+  - - te
     - 1
-  sGUTe:
-  - - nbe
+  - - tte
     - 1
   nbe:
   - - rg
@@ -136012,9 +135963,6 @@ hash:
   nfrio:
   - - ns
     - 1
-  sgu:
-  - - tte
-    - 1
   ccie:
   - - STOP
     - 4
@@ -136335,9 +136283,6 @@ hash:
     - 2
   ppys:
   - - STOP
-    - 1
-  GUTe:
-  - - nbe
     - 1
   zla:
   - - STOP
@@ -136677,6 +136622,8 @@ hash:
     - 4
   - - go
     - 30
+  - - lkma
+    - 2
   - - lko
     - 1
   - - lkyrie
@@ -137043,10 +136990,10 @@ hash:
     - 2
   - - ze
     - 2
-  lDieu:
+  ldieu:
   - - STOP
     - 1
-  lsDieu:
+  lsdieu:
   - - STOP
     - 1
   hou:
@@ -137455,7 +137402,7 @@ hash:
     - 2
   - - te
     - 2
-  Hygia:
+  hygia:
   - - pho
     - 2
   hygro:
@@ -138112,7 +138059,7 @@ hash:
   - - ntai
     - 36
   - - nte
-    - 1514
+    - 1515
   - - nti
     - 139
   - - nto
@@ -138211,6 +138158,8 @@ hash:
     - 51
   - - so
     - 127
+  - - spe
+    - 1
   - - srae
     - 6
   - - ssa
@@ -138729,9 +138678,6 @@ hash:
     - 2
   - - nd
     - 1
-  Inte:
-  - - rne
-    - 1
   rsti:
   - - ce
     - 2
@@ -139002,9 +138948,6 @@ hash:
   - - STOP
     - 1
   - - s
-    - 1
-  ISPELL:
-  - - STOP
     - 1
   srae:
   - - lie
@@ -139768,10 +139711,7 @@ hash:
     - 2
   - - lee
     - 2
-  La:
-  - - nd
-    - 1
-  Lõnde:
+  lõnde:
   - - r
     - 1
   ndgra:
@@ -140256,11 +140196,6 @@ hash:
   cfa:
   - - rla
     - 2
-  Ma:
-  - - ch
-    - 1
-  - - rti
-    - 1
   neou:
   - - ti
     - 1
@@ -140851,9 +140786,6 @@ hash:
   lae:
   - - na
     - 2
-  Me:
-  - - lba
-    - 1
   lchio:
   - - r
     - 1
@@ -141126,9 +141058,6 @@ hash:
     - 2
   - - rs
     - 1
-  Mi:
-  - - ni
-    - 4
   rdieu:
   - - se
     - 3
@@ -141210,11 +141139,6 @@ hash:
     - 1
   "´dei":
   - - sme
-    - 2
-  Mo:
-  - - 'no'
-    - 2
-  - - vio
     - 2
   nstre:
   - - STOP
@@ -141656,9 +141580,6 @@ hash:
   nao:
   - - s
     - 2
-  Na:
-  - - po
-    - 1
   rcei:
   - - ne
     - 2
@@ -141812,11 +141733,6 @@ hash:
   veo:
   - - le
     - 2
-  Noe:
-  - - l
-    - 1
-  - - ls
-    - 1
   mbreu:
   - - se
     - 4
@@ -141844,12 +141760,6 @@ hash:
   tna:
   - - mie
     - 12
-  'No':
-  - - tre
-    - 1
-  Da:
-  - - me
-    - 1
   noueu:
   - - se
     - 2
@@ -142419,6 +142329,8 @@ hash:
     - 2
   - - rlea
     - 2
+  - - rlo
+    - 1
   - - rmaie
     - 2
   - - rme
@@ -142927,9 +142839,6 @@ hash:
   ccluo:
   - - ns
     - 1
-  LMS:
-  - - STOP
-    - 1
   ctroi:
   - - STOP
     - 1
@@ -143181,9 +143090,6 @@ hash:
   rlea:
   - - ni
     - 2
-  Orlo:
-  - - n
-    - 1
   rmeau:
   - - STOP
     - 1
@@ -143892,9 +143798,6 @@ hash:
   chble:
   - - nde
     - 2
-  Pe:
-  - - da
-    - 2
   dzoui:
   - - lle
     - 2
@@ -144507,9 +144410,6 @@ hash:
     - 1
   - - ls
     - 1
-  Po:
-  - - la
-    - 2
   llueu:
   - - r
     - 1
@@ -145092,9 +144992,6 @@ hash:
     - 6
   - - x
     - 2
-  Dieu:
-  - - STOP
-    - 1
   prieu:
   - - r
     - 1
@@ -145402,9 +145299,6 @@ hash:
     - 2
   - - te
     - 2
-  Qua:
-  - - si
-    - 2
   rze:
   - - STOP
     - 3
@@ -145709,12 +145603,6 @@ hash:
   reio:
   - - ns
     - 2
-  ntE:
-  - - STOP
-    - 2
-  ntES:
-  - - STOP
-    - 2
   rciai:
   - - STOP
     - 1
@@ -145900,11 +145788,6 @@ hash:
     - 2
   - - sta
     - 4
-  Rho:
-  - - dia
-    - 1
-  - - vyl
-    - 1
   vyl:
   - - STOP
     - 1
@@ -145977,13 +145860,6 @@ hash:
     - 1
   - - rs
     - 1
-  Ri:
-  - - lsa
-    - 1
-  - - mme
-    - 2
-  - - po
-    - 2
   rza:
   - - ndo
     - 3
@@ -146091,9 +145967,6 @@ hash:
   ndspoi:
   - - nts
     - 1
-  Ro:
-  - - neo
-    - 2
   typai:
   - - STOP
     - 4
@@ -146168,9 +146041,6 @@ hash:
     - 1
   - - te
     - 1
-  S:
-  - - STOP
-    - 2
   rouai:
   - - STOP
     - 1
@@ -146451,14 +146321,6 @@ hash:
   ntne:
   - - ctai
     - 1
-  Sai:
-  - - ntOffi
-    - 1
-  - - ntSie
-    - 1
-  ntOffi:
-  - - ce
-    - 1
   ntpau:
   - - li
     - 1
@@ -146468,7 +146330,7 @@ hash:
   ntpie:
   - - rre
     - 1
-  ntSie:
+  ntsie:
   - - ge
     - 1
   ntsi:
@@ -146482,11 +146344,6 @@ hash:
     - 1
   cyla:
   - - te
-    - 2
-  Sa:
-  - - ndo
-    - 2
-  - - lo
     - 2
   ngfroi:
   - - d
@@ -146756,14 +146613,6 @@ hash:
     - 1
   - - te
     - 4
-  Sco:
-  - - tch
-    - 1
-  - - tchs
-    - 1
-  Scra:
-  - - bble
-    - 2
   ptgi:
   - - rl
     - 1
@@ -147172,11 +147021,6 @@ hash:
   - - STOP
     - 1
   - - s
-    - 1
-  Ska:
-  - - "´"
-    - 1
-  - - "´s"
     - 1
   skia:
   - - STOP
@@ -148747,11 +148591,6 @@ hash:
     - 2
   - - ste
     - 2
-  Ta:
-  - - rte
-    - 1
-  - - xi
-    - 2
   toua:
   - - STOP
     - 2
@@ -148843,22 +148682,12 @@ hash:
   chne:
   - - tro
     - 2
-  Te:
-  - - chni
-    - 1
-  - - flo
-    - 2
-  - - rga
-    - 2
   nsioa:
   - - cti
     - 4
   ntea:
   - - bri
     - 1
-  Mau:
-  - - re
-    - 2
   fsteu:
   - - fs
     - 1
@@ -149027,9 +148856,6 @@ hash:
   - - t
     - 2
   - - ts
-    - 1
-  Tou:
-  - - ssai
     - 1
   spui:
   - - ssa
@@ -149471,9 +149297,6 @@ hash:
   mphie:
   - - z
     - 1
-  Tri:
-  - - ple
-    - 1
   tiu:
   - - m
     - 1
@@ -149903,11 +149726,6 @@ hash:
   rheu:
   - - re
     - 2
-  Ve:
-  - - da
-    - 2
-  - - spa
-    - 2
   llei:
   - - tai
     - 2
@@ -149978,9 +149796,6 @@ hash:
   ltme:
   - - tre
     - 2
-  Vo:
-  - - lu
-    - 2
   ptuai:
   - - re
     - 2
@@ -149998,9 +149813,6 @@ hash:
   nsfou:
   - - dre
     - 1
-  Wa:
-  - - lkma
-    - 2
   lkma:
   - - n
     - 1

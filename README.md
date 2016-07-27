@@ -1,13 +1,19 @@
 # Yahourt-Poesie
-Un generateur de poemes base sur le principe des chaines de Markov.
+Un générateur de poèmes base sur le principe des chaînes de Markov.
 
 Voici plusieurs implémentation :
 
 ##Inverse
-Cette implementation genere les mots de droite a gauche pour garantir la rime.
+Cette implémentation génère les mots de droite à gauche pour garantir la rime.
 
 ##Normal
-Cette implementation genere les mots de gauche a droite pour garantir la des mots qui sonnent "Francais".
+Cette implémentation génère les mots de gauche à droite pour garantir la des mots qui sonnent "Francais".
 
-##Normal2
-Même chose que Normal sauf que la génération des mots est moins hasardeuse.
+##Normalbis
+Même chose de Normal sauf que la génération des mots est moins hasardeuse.
+
+##Syllabaire
+Génère cette fois-ci des syllabes et non plus lettre par lettre.
+
+##Connerie+
+Utilise des mots déjà existant.
